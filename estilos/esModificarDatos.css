@@ -1,0 +1,59 @@
+body {
+	font-family: arial;
+	background-image: url(../imagenes/fondo.jpg);
+	background-size: 100%;
+}
+
+.cuerpo {
+	position: absolute;
+	height: 70%;
+	width: 80%;
+	top: 7%;
+	left: 10%;
+}
+
+.boton {
+	height: 100px;
+	width: 270px;
+	background-color: #297ca7;
+	font-size: 25px;
+	color: white;
+	top: 79%;
+	left: 74%;
+	border: 0;
+	box-shadow: 10px 10px #121b4a;
+	z-index: 20;
+	text-align: center;
+	text-decoration: none;
+	position: absolute;
+}
+
+.tablaActual,tr,td {
+	background-color: white;
+
+	border: 1px solid black;
+    padding: 19px;
+    height: 75%;
+    width: 100%;
+}
+
+.encabezado > td
+{
+	background-color: #1C6588;
+	font-size: 23px;
+	color: white;
+}
+
+.acue
+{
+	background-color: #68A9F2;
+	color: #1F5681;
+	font-size: 18px;
+}
+
+.tabla
+{
+	position: absolute;
+	top: 6%;
+	left: 25%;
+}

@@ -1,0 +1,90 @@
+
+body {
+	font-family: arial;
+	background-image: url(../imagenes/fondo.jpg);
+	background-size: 100%;
+}
+
+
+
+.saludo {
+	font-size: 120px;
+	background-color: #1F77A4;
+	border-radius: 10px;
+	letter-spacing: 10px;
+	font-style: italic;
+	text-align: center;
+	position: relative;
+	width: 70%;
+	height: 100%;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 10px;
+
+}
+
+.botona {
+	height: 100px;
+	width: 270px;
+	background-color: #297ca7;
+	font-size: 25px;
+	color: white;
+	top: 29%;
+	left: 25%;
+	border: 0;
+	box-shadow: 10px 10px #121b4a;
+	z-index: 20;
+	text-align: center;
+	text-decoration: none;
+	position: absolute;
+}
+
+.botonb {
+	height: 100px;
+	width: 270px;
+	background-color: #297ca7;
+	font-size: 25px;
+	color: white;
+	top: 29%;
+	left: 58%;
+	border: 0;
+	box-shadow: 10px 10px #121b4a;
+	z-index: 20;
+	text-align: center;
+	text-decoration: none;
+	position: absolute;
+}
+
+
+.botonc {
+	height: 100px;
+	width: 270px;
+	background-color: #297ca7;
+	font-size: 25px;
+	color: white;
+	top: 50%;
+	left: 25%;
+	border: 0;
+	box-shadow: 10px 10px #121b4a;
+	z-index: 20;
+	text-align: center;
+	text-decoration: none;
+	position: absolute;
+}
+
+.botond {
+	height: 100px;
+	width: 270px;
+	background-color: #297ca7;
+	font-size: 25px;
+	color: white;
+	top: 50%;
+	left: 58%;
+	border: 0;
+	box-shadow: 10px 10px #121b4a;
+	z-index: 20;
+	text-align: center;
+	text-decoration: none;
+	position: absolute;
+}
+

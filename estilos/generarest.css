@@ -1,0 +1,54 @@
+body {
+	font-family: arial;
+	background-image: url(../imagenes/fondo.jpg);
+	background-size: 100%;
+}
+
+.cuerpo {
+	position: absolute;
+	background-color: white;
+	
+	top: 10%;
+	left: 15%;
+}
+
+.cuerpo table,tr,td {
+	border-bottom: 1px solid black;
+}
+
+.cuerpo td {
+		width: 500px;
+		height: 60px;
+}
+
+.botona {
+	height: 100px;
+	width: 270px;
+	background-color: #297ca7;
+	font-size: 25px;
+	color: white;
+	top: 75%;
+	left: 70%;
+	border: 0;
+	box-shadow: 10px 10px #121b4a;
+	z-index: 20;
+	text-align: center;
+	text-decoration: none;
+	position: absolute;
+}
+
+.botonb {
+	height: 100px;
+	width: 270px;
+	background-color: #297ca7;
+	font-size: 25px;
+	color: white;
+	top: 75%;
+	left: 50%;
+	border: 0;
+	box-shadow: 10px 10px #121b4a;
+	z-index: 20;
+	text-align: center;
+	text-decoration: none;
+	position: absolute;
+}
